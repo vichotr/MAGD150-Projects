@@ -4,3 +4,4 @@
 
 
 [Project 3 Examples](https://github.com/vichotr/MAGD150-Projects/tree/gh-pages/Lab%203%20Examples%203) include example which show calcuation functions and math operators in P5.js
+[Click here to view the project source code](https://github.com/vichotr/MAGD150-Projects/blob/gh-pages/Lab%203%20Examples%203/Lesson%203B_MathFunctions/sketch.js)
