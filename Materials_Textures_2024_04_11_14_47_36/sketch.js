@@ -1,4 +1,4 @@
-let img;
+var img;
 function setup() {
   createCanvas(710, 400, WEBGL);
   img = loadImage('ight.jpg');
